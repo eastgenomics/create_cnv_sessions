@@ -34,7 +34,7 @@ def get_url(file_name, project):
 
 def main(args):
 
-    DX_PROJECT = 'project-GGPZ4Jj4x2Fy445PFqvYP9xz'
+    DX_PROJECT = 'project-GGyZfpj4Ygv99yxx9xPZzP0q'
 
     with open('cnv-template.json') as fh:
         template = json.load(fh)
